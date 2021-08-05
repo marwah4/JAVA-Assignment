@@ -1,3 +1,5 @@
+// Count the number of positive and negetive numbers from the 10 numbers
+
 package week_02;
 
 /**
