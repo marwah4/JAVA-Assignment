@@ -1,3 +1,5 @@
+// print the sum of all numbers between 1 to 100
+
 package week_02;
 
 /**
